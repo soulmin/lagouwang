@@ -1,0 +1,150 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	width: 7.5rem;
+	margin: 0 auto;
+}
+.head_nav{
+	width:7.5rem;
+	height:0.9rem;
+	background-color: #00B38A;
+}
+.head_nav p{
+	font-size: 0.4rem;
+	padding: 0.2rem;
+	text-align: center;
+	line-height: 0.4rem;
+}
+.body_center{
+	width: 7.5rem;
+	
+}
+.nav{
+	width: 7.5rem;
+	height: 0.8rem;
+}
+.time{
+	display: inline-block;
+	width: 4.9rem;
+	height: 0.43rem;
+	float: left;
+	margin: 0.15rem;
+	line-height: 0.6rem;
+	font-size:0.3rem ;
+	padding-top: 0.1rem;
+}
+.login{
+	display: inline-block;
+	width: 1.68rem;
+	height: 0.6rem;
+	border: 0.01rem solid #E8E8E8;
+	background: #F5F5F5;
+	margin: 0.15rem 0.14rem;
+	text-align: center;
+	border-radius: 0.25rem;
+	line-height: 0.5rem;
+	color: #00B38A;
+	font-size:0.3rem ;
+	float: right;
+	padding-top: 0.1rem;
+}
+.body_ul{
+	list-style: none;
+	margin-top: 0.2rem;
+}
+.body_ul li{
+	width: 7.5rem;
+	height: 1.82rem;
+	padding: 0.14rem;
+	border-top:0.01rem solid #E8E8E8;
+	line-height: 0.7rem;
+}
+.body_ul li:last-child{
+	border-bottom: 0.01rem solid #E8E8E8;
+}
+.body_center img{
+	width: 1.2rem;
+	height: 1.2rem;
+	float: left;
+}
+.body_ul h2{
+	display: inline-block;
+	font-size: 0.3rem;
+	line-height: 0.3rem;
+}
+.position{
+	font-size: 0.25rem;
+	line-height: 0.4rem;
+}
+.publish_time{
+	font-size: 0.14rem;
+	line-height: 0.4rem;
+}
+.message{
+	width: 5.3rem;
+	display: inline-block;
+}
+.message_left{
+	padding: 0.1rem;
+	display:grid;
+	grid-template-columns: 4.0rem;
+    grid-template-rows: 0.38rem 0.38rem 0.38rem;
+}
+
+.body_ul h3{
+	display: inline-block;
+	font-size: 0.25rem;
+	font-weight: 200;
+	float: right;
+	height: 0.4rem;
+	margin: 0.5rem;
+	line-height: 0.4rem;
+	padding-top: 0.35rem;
+	color: #00b38a;
+}
+.footer{
+	width: 7.5rem;
+}
+.footer_first{
+	width: 7.5rem;
+	height: 1.5rem;
+	font-size: 0.35rem;
+	text-align: center;
+	background: #FAFAFA;
+	
+}
+.footer_first p{
+	line-height: 0.2rem;
+	padding:0.5rem 0rem ;
+	line-height: 0.5rem;
+}
+.footer_second{
+	width: 7.5rem;
+	height: 1rem;
+	margin-top: 0.6rem;
+	font-size: 0.25rem;
+	text-align: center;
+	line-height: 0.45rem;
+}
+.footer_third{
+	width: 7.5rem;
+	height: 0.9rem;
+	margin-top:0.5rem ;
+	text-align: center;
+	font-size: 0rem;
+}
+.footer_third span{
+	width: 2.5rem;
+	height: 0.9rem;
+	display: inline-block;
+	line-height: 1rem;
+	background: #F6F6F6;
+	font-size: 0.35rem;
+	color: #C5CFCC;
+}
+.footer_third i{
+	font-size: 0.5rem;
+	color: #C5CFCC;
+}
